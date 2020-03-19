@@ -1,4 +1,4 @@
-# findStration
+# FindStration
 Application to find french adminsitration information
 
 # To run 
